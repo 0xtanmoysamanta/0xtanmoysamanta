@@ -34,7 +34,7 @@ I'm a passionate developer, Linux enthusiast, and open-source contributor. Alway
 ## 🤝 Connect With Me  
 - **📧 Email:** [tanmoy-samanta@diffusionlab.online](mailto:tanmoy-samanta@diffusionlab.online)  
 - **🐦 X (Twitter):** [@0xtanmoysamanta](https://x.com/0xtanmoysamanta)  
-- **🟦 Bluesky:** [@diffusionlab.online](#)  
+- **🟦 Bluesky:** [@diffusionlab.online](https://bsky.app/profile/diffusionlab.online)  
 - **💬 Discord:** `0xtanmoysamanta`  
 - **📱 Signal:** `tanmoysamanta.6969`  
 - **🔗 LinkedIn:** [tanmoy-samanta](https://in.linkedin.com/in/tanmoy-samanta-240511248)  
