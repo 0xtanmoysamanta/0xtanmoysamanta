@@ -16,7 +16,7 @@ I'm a passionate developer, Linux enthusiast, and open-source contributor. Alway
 ## 🔨 Projects  
 1. **DiffusionLab** – [https://diffusionlab.online](https://diffusionlab.online)  
 2. **RealShit** – [https://realshit.space](https://realshit.space)  
-3. **My Blog** – [https://themysteriousdark.blogspot.com](https://themysteriousdark.blogspot.com)  
+3. **My Blog** – [https://blog.realshit.space/](https://blog.realshit.space/)  
 4. **WolfVPN** – *(made a long time ago!!)*  
 
 [→ View More](#)  
@@ -56,4 +56,4 @@ I'm a passionate developer, Linux enthusiast, and open-source contributor. Alway
 
 ---
 
-_Last updated: **[2025-02-13]**_  
+_Last updated: **[2025-04-12]**_  
