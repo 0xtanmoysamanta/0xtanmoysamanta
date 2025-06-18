@@ -37,7 +37,7 @@ I'm a passionate developer, Linux enthusiast, and open-source contributor. Alway
 - **🟦 Bluesky:** [@diffusionlab.online](https://bsky.app/profile/diffusionlab.online)  
 - **💬 Discord:** `0xtanmoysamanta`  
 - **📱 Signal:** `tanmoysamanta.6969`  
-- **🔗 LinkedIn:** [tanmoy-samanta](https://in.linkedin.com/in/tanmoy-samanta-240511248)  
+- **🔗 LinkedIn:** [tanmoy-samanta](https://in.linkedin.com/in/0xtanmoysamanta)  
 
 ---
 
@@ -50,7 +50,7 @@ I'm a passionate developer, Linux enthusiast, and open-source contributor. Alway
 - **Bitcoin:** `Arriving Shortly`  
 - **Dogecoin:** `Arriving Shortly`  
 - **Ethereum:** `0xD51669747cbE4F3356640c111C3d5124DdcE7125`  
-- **UPI ID:** `731887487@ptaxis`  
+- **UPI ID:** `0xtanmoy-samanta@fam`  
 - **Wise:** `mohansamanta090@gmail.com`  
 - **☕ Buy Me a Coffee:** [https://buymeacoffee.com/0xtanmoysamanta](https://buymeacoffee.com/0xtanmoysamanta)  
 
