@@ -1,4 +1,4 @@
-# Hi, I'm Tanmay 👋  
+# Hi, I'm Tanmoy 👋  
 
 ### 🚀 About Me  
 I'm a passionate developer, Linux enthusiast, and open-source contributor. Always exploring new technologies and building exciting projects.  
@@ -38,7 +38,7 @@ I'm a passionate developer, Linux enthusiast, and open-source contributor. Alway
 - **💬 Discord:** `0xtanmoysamanta`  
 - **📱 Signal:** `tanmoysamanta.6969`  
 - **🔗 LinkedIn:** [tanmoy-samanta](https://in.linkedin.com/in/0xtanmoysamanta)  
-
+- **🤗 Hugging Face** [tanmoy-samanta](https://huggingface.co/0xtanmoysamanta)
 ---
 
 ## 🎓 Education  
